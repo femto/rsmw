@@ -1,0 +1,275 @@
+
+---------------- loading ----------------
+after:[[0], [1], [2], [3]]
+loading font gfx/packs/Classic/menu/menu_font_small.png ... 
+loading font gfx/packs/Classic/menu/menu_font_large.png ... 
+filling...
+setting alpha to 255
+draw menu_smw at 186, 30
+load music/Standard/Menu/menu.ogg...
+loading font gfx/packs/Classic/fonts/font_small.png ... 
+loading font gfx/packs/Classic/fonts/font_large.png ... 
+
+---------------- ready, steady, go! ----------------
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+setting automodify to true
+returning @fModifying true
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+0smw
+loading map maps/0smw.map (preview) [Version 1.7.0.2 Map Detected]
+background:Land_Classic.png
+loading platform
+@iNumPlatforms:0
+path:gfx/packs/Classic/backgrounds/Land_Classic.png
+setting automodify to true
+adding Hazards,37 to MI_MapFilterScroll
+adding Warps,29 to MI_MapFilterScroll
+adding Ice,33 to MI_MapFilterScroll
+adding Item Boxes,1 to MI_MapFilterScroll
+adding Breakable Blocks,0 to MI_MapFilterScroll
+adding Throwable Blocks,6 to MI_MapFilterScroll
+adding On/Off Blocks,40 to MI_MapFilterScroll
+adding Platforms,73 to MI_MapFilterScroll
+adding Capture The Flag,0 to MI_MapFilterScroll
+adding Simple,0 to MI_MapFilterScroll
+returning @fModifying false
+setting automodify to true
+returning @fModifying true
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+game_values.teamcounts[] = [1, 1, 0, 0]
+game_values.teamids = [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2, -2, -2]]
+after initialize, @iTeamIDs is [[0], [], [], []]
+after initialize, @iTeamIDs is [[0, -2], [], [], []]
+after initialize, @iTeamIDs is [[0, -2, -2], [], [], []]
+game_values.teamcounts[] = [1, 1, 0, 0]
+game_values.teamids = [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2, -2, -2]]
+after initialize, @iTeamIDs is [[0, -2, -2], [1], [], []]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2], [], []]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [], []]
+game_values.teamcounts[] = [1, 1, 0, 0]
+game_values.teamids = [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2, -2, -2]]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [-2], []]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [-2, -2], []]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [-2, -2, -2], []]
+game_values.teamcounts[] = [1, 1, 0, 0]
+game_values.teamids = [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2, -2, -2]]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2]]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2, -2]]
+after initialize, @iTeamIDs is [[0, -2, -2], [1, -2, -2], [-2, -2, -2], [-2, -2, -2]]
+setting @miTeamSelect automodify to true
+setting automodify to true
+returning @fModifying true
+returning @fModifying false
+returning @fModifying false
+returning @fModifying false
+runMenu
+menu_select pressed at sendInput@UI_Menu dispatch
+code:22
+loading Menu skin for 0,0,0
+load menuskin gfx/skins/0smw.bmp
+loading Menu skin for 1,0,1
+load menuskin gfx/skins/0smw.bmp
+loading Menu skin for 2,0,2
+load menuskin gfx/skins/0smw.bmp
+loading Menu skin for 3,0,3
+load menuskin gfx/skins/0smw.bmp
+returning @fModifying false
+returning @fModifying true
+MI_TeamSelect.sendInput: @fAllReady:true,@fReady[iPlayer]:true, iPlayer:{iPlayer}
+code:21
+returning @fModifying false
+returning @fModifying false
+menu_select pressed at sendInput@UI_Menu dispatch
+code:5
+start Game
+[false, false, false, false]
+valid skin:gfx/skins/0smw.bmp
+valid skin:gfx/skins/0smw.bmp
+loading map maps/0smw.map [Version 1.7.0.2 Map Detected]
+background:Land_Classic.png
+loading platform
+@iNumPlatforms:0
+load music/Standard/smb3level1.ogg...
+iDigits now is 0
+iDigits now is 0
+iDigits now is 15
+iDigits now is 15
+Player Jumped!
+Player Jumped!
+Player Jumped!
+Player Jumped!
+Player Jumped!
+Player Jumped!
+colliding....
+state= 0
+colliding....
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0
+state= 0

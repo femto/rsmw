@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/38/trunk/_src
+END
+maplist.rb
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/20/trunk/_src/maplist.rb
+END
+score.rb
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/22/trunk/_src/score.rb
+END
+output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/36/trunk/_src/output.txt
+END
+game_values.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19/trunk/_src/game_values.rb
+END
+path.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/9/trunk/_src/path.rb
+END
+mapaware.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/38/trunk/_src/mapaware.rb
+END
+input.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/_src/input.rb
+END
+io_movingobjects.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/38/trunk/_src/io_movingobjects.rb
+END
+movingplatform.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/_src/movingplatform.rb
+END
+test_backup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/_src/test_backup.rb
+END
+object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/37/trunk/_src/object.rb
+END
+objecttype.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11/trunk/_src/objecttype.rb
+END
+game.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/38/trunk/_src/game.rb
+END
+dirlist.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/trunk/_src/dirlist.rb
+END
+main.rbw
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/37/trunk/_src/main.rbw
+END
+map.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/38/trunk/_src/map.rb
+END
+uicontrol.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/36/trunk/_src/uicontrol.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/_src/test.rb
+END
+gfx.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/30/trunk/_src/gfx.rb
+END
+ai.rb
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/21/trunk/_src/ai.rb
+END
+sfont.rb
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/30/trunk/_src/sfont.rb
+END
+splash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/28/trunk/_src/splash.rb
+END
+store
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/_src/store
+END
+player.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/38/trunk/_src/player.rb
+END
+sfx.rb
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/35/trunk/_src/sfx.rb
+END
+options.bin
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/38/trunk/_src/options.bin
+END
+global.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/32/trunk/_src/global.rb
+END
+powerup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/37/trunk/_src/powerup.rb
+END
+eyecandy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/27/trunk/_src/eyecandy.rb
+END
+gamemodes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/27/trunk/_src/gamemodes.rb
+END
+gamemodes_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/_src/gamemodes_type.rb
+END
+uimenu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/18/trunk/_src/uimenu.rb
+END
+menu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/36/trunk/_src/menu.rb
+END
